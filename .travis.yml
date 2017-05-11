@@ -23,5 +23,5 @@ android:
     - sys-img-armeabi-v7a-android-25
     - sys-img-armeabi-v7a-android-15
     
-    before_install:
+before_install:
 - chmod +x gradlew
