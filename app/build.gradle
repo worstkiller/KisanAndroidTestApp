@@ -18,9 +18,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         debug{
-            buildConfigField "String", "ACCOUNT_SID", "\"ACe65084f185a0dd7228d9fdf4746e2f25\""
-            buildConfigField "String", "ACCOUNT_SENDER", "\"+15037665489\""
-            buildConfigField "String", "AUTHORIZATION", "\"Basic QUNlNjUwODRmMTg1YTBkZDcyMjhkOWZkZjQ3NDZlMmYyNTpkMjI1N2YwZjE5NjlhZTZhMWJiZGZmZjQyYTM4ZDY2NA==\""
+            buildConfigField "String", "ACCOUNT_SID", "\"ACe65084f185a0dd7228d9fdf4746e2f52\""
+            buildConfigField "String", "ACCOUNT_SENDER", "\"+15037665498\""
+            buildConfigField "String", "AUTHORIZATION", "\"Basic QUNlNjUwODRmMTg1YTBkZDcyMjhkOWZkZjQ3NDZlMmYyNTpkMjI1N2YwZjE5NjlhZTZhMWJiZGZmZjQyYTM4ZDY2AN==\""
         }
     }
 }
